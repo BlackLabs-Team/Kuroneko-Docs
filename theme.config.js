@@ -24,7 +24,7 @@ export default {
     banner: {
         key: 'network-season2-release',
         text: (
-            <a href="./season2" target="_blank">
+            <a href="./season/season2" target="_blank">
                 🎉 黒猫ネットワーク、シーズン2が公開！ 詳細はこちら →
             </a>
         )
